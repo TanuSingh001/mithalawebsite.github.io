@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="mithala.css"/>
+    <title>MITHALA SAREES</title>
+</head>
+<body>
+  <div class="context">
+<h1>WELCOME </h1>
+  <h2>"Nothing Feels as Perfect as a Saree"</h2>
+    </div>
+<div class="area" >
+<ul class="circles">
+                    <li>MITHILA</li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li>SAREES</li>
+                    <li>COLLECTION</li>
+                    <li></li>
+                    <li></li>
+                    <li>TRADATIONAL</li>
+            </ul>
+    </div >
+</body>
+
+    <link rel="preconnect"href="url(C:\Users\Asus\OneDrive\Pictures\Saved Pictures\MITHALA SAREES_files\b5.jpg">
+
+    <div class="container">
+
+        <header>
+            <nav id="navbar">
+			
+                <div class="logo"><span>MITHALA SAREE</span></div>
+                <ul>
+                    <li><a href="#home">HOME</a></li>
+                    <li><a href="#menu">PRODUCT</a></li>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="#order">ORDER</a></li>
+					 <li><a href="#gallery">GALLERY</a></li>
+					
+                </ul>
+            </nav>
+            <div id="mobile">
+                <div class="logo1"><span>MITHALA SAREE</span></div>
+                <ul>
+                    <li><a href="#home">HOME</a></li>
+                    <li><a href="#menu">PRODUCT</a></li>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="#order">ORDER</a></li>
+				    <li><a href="gallery">GALLERY</a></li>
+                </ul>
+            </div>
+
+            <div class="overlay">
+                <section id="home">
+                    <h1 class="h-primary">Saree Collection</h1>
+                    <br>
+                    <p> </p>
+                   
+                    <button class="btn">Order Now</button>
+                </section>
+            </div>
+			
+</header>
+		
+	
+        <div id="menu">
+            <div class="heading">
+                
+                <h2>CATEGORIES</h2>
+            </div>
+            <div class="card">
+                <img src="https://vaanisilks.com/images/b5.jpg">
+                    
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $10 </h5>
+                    </div>
+					<p>SAREES</p>
+                    <button>Buy Now</button> 
+				   </div>
+               </div>
+
+            <div class="card">
+                <img src="https://i.pinimg.com/originals/d6/da/4b/d6da4b944cc397516fcc4274b34bcfa7.jpg"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $20 </h5>
+                    </div>
+		             <p>PAINTING</p>
+                   <button>Buy Now</button>
+				</div>
+            </div>
+
+            <div class="card">
+                <img src="http://2.bp.blogspot.com/-WY-daMnuQdg/Tro69mQnHRI/AAAAAAAAAGw/mIAOVW00Ahw/s1600/mural-sare.JPG"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+					<h5></h5>
+                        <h5 class="price"> $12 </h5>
+                     </div>
+                    <p>PAINTING</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="https://i.pinimg.com/originals/59/ca/81/59ca81f6ea067241da832a051bba887a.jpg"
+				
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $12 </h5>
+                    </div>
+                    <p>DUPATTA</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="https://i.pinimg.com/originals/ac/67/45/ac6745870cf61448a8ecc8467af3943f.jpg"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $15 </h5>
+                    </div>
+                    <p>PAINTING</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="https://i.pinimg.com/originals/c9/d6/49/c9d649497ea71568a39b5032610d2c73.jpg"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $14 </h5>
+                    </div>
+                    <p>SAREES</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+
+
+           <div class="card">
+                <img src="https://i.pinimg.com/originals/5a/4c/72/5a4c728891452e7f0f70ebbeee88ede9.jpg"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $14 </h5>
+                    </div>
+                    <p>SAREES</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+        
+		
+		
+		  <div class="card">
+                <img src="https://i.pinimg.com/originals/35/3a/49/353a49fb76c889c473c232fa423acb5d.jpg"
+                    alt="">
+                <div class="details">
+                    <div class="details-sub">
+                        <h5></h5>
+                        <h5 class="price"> $14 </h5>
+                    </div>
+                    <p>PAINTING</p>
+                    <button>Buy Now</button>
+                </div>
+            </div>
+        </div>
+		
+
+
+        <div id="about">
+            <h1 class="title">ABOUT US </h1>
+			 <p class="text">
+			I'm Tanu Singh.I Desing multiple Saree, Painting, and duppata
+        </p>
+            <div class="about_row">
+                <div class="about_column">
+                    <p>SAREES</p>
+                    <button id="btn1">learn more</button>
+                </div>
+                <div class="about_column">
+                    <img src="https://mydigitalmart.in/uploads/2023/08/fbc0dd430f69665725411e4f90657bce.jpg" alt="">
+                </div>
+		 </div>
+        </div>
+        <div id="order">
+            <h1 class="title1">ORDER NOW</h1>
+            <form action="">
+                <input type="text" class="inp_box" placeholder="Name">
+                <input type="email" class="inp_box" placeholder="Email">
+                <textarea type="text" class="inp_box text_area" placeholder="Adress"></textarea>
+                <button class="btn2">Order Now</button>
+        </div>
+        </form>
+
+    </div>
+   
+    </div>
+
+  <div class="section2">
+        <div class="container">
+          <div class="items">
+            <div class="img img1"><img src="https://tse2.mm.bing.net/th?id=OIP.3a1XYk_Kf23WpJk9yhZMdwHaFj&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+            
+            
+          </div>
+          <div class="items">
+            <div class="img img2"><img src="https://tse2.mm.bing.net/th?id=OIP.xqeH6UwNuzsQT9kauKMvrQHaE7&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+            
+            
+          </div>
+          <div class="items">
+            <div class="img img3"><img src="https://tse1.mm.bing.net/th?id=OIP.01Vyq9RZfPB54MIGHWlSagHaHa&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+            
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.3_SelzC5tj2SjyaCNg7MDgHaHa&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+            
+           
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse2.mm.bing.net/th?id=OIP.7knJOOQ5z44_-DAlJ_wKmQHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+           
+           
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.PwCw9CbrLO51B2mOLwYGLgHaE8&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Saree</div>
+            
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse1.mm.bing.net/th?id=OIP.Pe5v5V0m5J08UtZKL5OiRAHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Painting</div>
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse1.explicit.bing.net/th?id=OIP.-kRKy66TDAS1WhTywQFVggHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Painting</div>
+           
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse2.mm.bing.net/th?id=OIP.o6khbrfyf-iocKuHOGVaxwHaJI&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Painting</div>
+
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.fZMWQjg03PapLJnL_GVLRwHaEK&pid=Api&P=0&h=180" alt=""></div>
+            <div class="name">Painting</div>
+          
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse1.mm.bing.net/th?id=OIP.0VQbvtq3WLIWBOOMyUqDtQHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Painting</div>
+           
+
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.iwfWfLxAdEv8u__0lwcZewHaEL&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Painting</div>
+
+            
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/html-lernen-t.jpg" alt=""></div>
+            <div class="name">Dupatta</div>
+       
+
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.Vv1O5vg3HlgwQMjeKmy6aQHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Dupatta</div>
+        
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse1.mm.bing.net/th?id=OIP.DCMkoXOPxrfY8zlg9hjJ6gHaEK&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Dupatta</div>
+          
+
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse1.mm.bing.net/th?id=OIP._v_ejIAbrvRBzmjH8YE6ggHaEx&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Dupatta</div>
+            
+
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse3.mm.bing.net/th?id=OIP.s1MvxCJgo77ijjC_LkZxXAHaEo&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Dupatta</div>
+         
+
+          </div>
+          <div class="items">
+            <div class="img img1"><img src="https://tse2.mm.bing.net/th?id=OIP.O4b29g448P1Js7pElwG6-AHaFC&pid=Api&P=0&h=220" alt=""></div>
+            <div class="name">Dupatta</div>
+           
+
+          </div>
+        </div>
+		</div>
+    </div>
+</section>
+
+
+   <footer>
+        <div>
+            
+            <p>
+                Designed by Tanu Singh
+            </p>
+        </div>
+		
+    </footer>
+  
+  
+  
+  </body>
+ 
+ </html>
+ 
+ 
